@@ -4,6 +4,7 @@
     </div>
     <div align="center">
         <h1>Atlas Render Farm manager <br ></h1>
+        <h3><i>Project closed</i><h3>
     </div>
     <div align="center">
         <img alt="GitHub" src="https://img.shields.io/github/license/AtlasRender/atlas-website"/>
